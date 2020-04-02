@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Covid 19 Charts by Intquo Technologies</title>
+  <title>Covid 19 Charts</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all,follow">
@@ -43,7 +43,7 @@
     <nav class="navbar navbar-expand-lg flex">
       <div class="col-md-8 text-left">
         <div class="col-md-3 text-center">
-            <a href="/"><h1 class="text-white ">Covid -19</h1></a>
+          <a href="/"><img src="img/corona_logo_word.png" width="100%" height="auto"></a>
         </div>
       </div>
       <div class="col-md-4">

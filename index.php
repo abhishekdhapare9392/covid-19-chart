@@ -2,7 +2,7 @@
   require('header.php');
 ?>
     
-      <section class="no-padding-bottom pt-5">
+      <section class="no-padding-bottom">
         <div class="container-fluid">
           <div class="row pt-5">
             <div class="col-lg-6">
@@ -41,7 +41,7 @@
             </div>
             <div class="col-lg-6">
               <div class="block text-center">
-                <a href="details.php"><span><h2 class="text-white">India</h2> (Details)</span></a>
+                <a href="/covid-19/details"><h2>India</h2></a>
               </div>
               <div class="row">
                 <div class="col-md-3">

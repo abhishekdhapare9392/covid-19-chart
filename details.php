@@ -4,7 +4,7 @@ include 'header.php';
 
 <section class="no-margin-bottom">
     <div class="container-fluid">
-        <div class="row">
+        <div class="row pt-5">
             <div class="col-md-6">
                 <div class="block">
                     <div id="accordion"></div>
