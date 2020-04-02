@@ -14,10 +14,11 @@
                   infections.</p>
                 <strong>How is the data gathered for this project?</strong>
                 <p>
-                  <p>India: <a href="https://github.com/covid19india">Covid 19 India</a></p>
-                  <p>Country Data: <a href="https://github.com/pomber/covid19">@pomber/covid19</a></p>
+                  <p>India and State Data: <a href="https://github.com/covid19india">Covid 19 India</a></p>
+                  <p>Country List: <a href="https://github.com/pomber/covid19">@pomber/covid19</a></p>
                   <p>World Data: <a href="https://rapidapi.com">Rapid API</a></p>
                   <p>Charts: <a href="https://developers.google.com/chart">Google Charts</a></p>
+                  <p>News: <a href="https://newsapi.org/">News API</a></p>
                 </p>
                 <a href="#" class="close-popup btn btn-primary" data-id="popup_default">Close</a>
               </div>
